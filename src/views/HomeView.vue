@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import ChannelManager from '@/components/ChannelManager.vue'
 </script>
 
 <template>
-  <main class="container">
-    <TheWelcome />
-  </main>
+  <div class="container">
+    <ChannelManager />
+  </div>
 </template>
