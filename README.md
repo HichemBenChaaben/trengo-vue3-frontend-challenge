@@ -1,6 +1,21 @@
-# my-vue-app
+## Preview
 
-This template should help get you started developing with Vue 3 in Vite.
+<strong>Demo video on loom</strong>
+
+https://www.loom.com/share/3c667bf3649a4704b37094e665bc3868?sid=6f9c01c4-0b4a-4d43-a41e-879a108a7566
+
+# channels-selector
+
+This project uses
+
+- vue 3
+- vite
+- typescript
+- tailwindcss
+- pinia
+- cypress
+- eslint
+- msw (fake backend)
 
 ## Recommended IDE Setup
 
