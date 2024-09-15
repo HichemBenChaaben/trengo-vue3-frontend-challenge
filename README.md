@@ -1,9 +1,3 @@
-## Preview
-
-<strong>Demo video on loom</strong>
-
-https://www.loom.com/share/3c667bf3649a4704b37094e665bc3868?sid=6f9c01c4-0b4a-4d43-a41e-879a108a7566
-
 # channels-selector
 
 This project uses
